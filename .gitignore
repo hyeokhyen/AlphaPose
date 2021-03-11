@@ -1,5 +1,7 @@
 # not-part-of-the-running-script
 examples/
+Human/
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
