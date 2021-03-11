@@ -4,6 +4,8 @@ import os
 import platform
 import sys
 import time
+import matplotlib
+matplotlib.use('Agg')
 
 import numpy as np
 import torch
